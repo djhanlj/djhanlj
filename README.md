@@ -1,4 +1,7 @@
-### Hi there, I'am Djair Soares 👋
+### Hi there, my name is Djair or nickname Dj ✌🏾
+
+- 🔭 I’m currently working on Zup
+- 🌱 I’m currently learning about Cloud.
 
 <!--
 **djhanlj/djhanlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
